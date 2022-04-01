@@ -10,8 +10,6 @@ The "Vine" program sends merchandise to subscribers, who are then encouraged to 
 
 ### Results
 
-<img width="742" alt="Screen Shot 2022-03-31 at 9 50 32 PM" src="https://user-images.githubusercontent.com/95657458/161179001-5bca7e01-1906-4405-92a1-589e03b32fb7.png">
-
 (Vine Reviews vs. Non-Vine Reviews)
 * There were a total of 2 vine reviews and 3,105,513 non-vine reviews in this dataset. 
 * There were 0 5-star vine reviews and 403,807 5-star non-vine reviews in this dataset. 
